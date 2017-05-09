@@ -11,3 +11,4 @@
 | 1/4                  | PM é achada morta em matagal na Bahia; namorado confessou crime | http://g1.globo.com/bahia/noticia/2017/04/pm-e-achada-morta-em-matagal-na-bahia-homem-confessou-crime.html |
 | 5/4                  | Mulher é degolada por vizinho no Recife | http://www.pragmatismopolitico.com.br/2017/04/vizinho-que-degolou-fisioterapeuta-e-autuado-por-feminicidio.html |
 | 10/4                  | Morta a facadas pelo ex-namorado | http://g1.globo.com/pb/paraiba/noticia/mulher-e-morta-a-facadas-pelo-ex-namorado-no-agreste-da-paraiba-diz-policia.ghtml |
+| 8/5                  | Morta a tiros - no aceitou separação | http://www.meon.com.br/noticias/regiao/mulher-e-morta-com-tiro-na-cabeca-dentro-de-loja-de-moveis |
