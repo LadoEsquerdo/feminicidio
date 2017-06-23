@@ -13,3 +13,4 @@
 | 10/4                  | Morta a facadas pelo ex-namorado | http://g1.globo.com/pb/paraiba/noticia/mulher-e-morta-a-facadas-pelo-ex-namorado-no-agreste-da-paraiba-diz-policia.ghtml |
 | 8/5                  | Morta a tiros - no aceitou separação | http://www.meon.com.br/noticias/regiao/mulher-e-morta-com-tiro-na-cabeca-dentro-de-loja-de-moveis |
 | 20/6                  | Matou a mulher e se matou | http://g1.globo.com/sp/vale-do-paraiba-regiao/link-vanguarda/videos/v/homem-que-matou-esposa-e-cometeu-suicidio-em-sao-sebastiao-tinha-perfil-violento/5954941/?utm_source=dlvr.it&utm_medium=twitter |
+| 21/6                  | ASSASSINO (não ciumento, viu Record) matou a mulher e feriu amigas| http://noticias.r7.com/cidade-alerta/videos/tenente-ciumento-mata-a-namorada-e-fere-as-amigas-dela-em-bar-21062017 |
