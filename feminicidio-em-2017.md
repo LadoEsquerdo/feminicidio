@@ -10,6 +10,7 @@
 | 31/3                  | Mulher é morta a golpes de facão e companheiro é suspeito, diz polícia no ES                 | http://g1.globo.com/espirito-santo/noticia/mulher-e-morta-a-golpes-de-facao-e-companheiro-e-suspeito-diz-policia-no-es.ghtml |
 | 1/4                  | PM é achada morta em matagal na Bahia; namorado confessou crime | http://g1.globo.com/bahia/noticia/2017/04/pm-e-achada-morta-em-matagal-na-bahia-homem-confessou-crime.html |
 | 5/4                  | Mulher é degolada por vizinho no Recife | http://www.pragmatismopolitico.com.br/2017/04/vizinho-que-degolou-fisioterapeuta-e-autuado-por-feminicidio.html |
+| 9/4                  | Matou a namorada a tiros | https://extra.globo.com/casos-de-policia/acusado-de-matar-namorada-preso-em-acao-conjunta-no-interior-do-rio-21518111.html |
 | 10/4                  | Morta a facadas pelo ex-namorado | http://g1.globo.com/pb/paraiba/noticia/mulher-e-morta-a-facadas-pelo-ex-namorado-no-agreste-da-paraiba-diz-policia.ghtml |
 | 8/5                  | Morta a tiros - no aceitou separação | http://www.meon.com.br/noticias/regiao/mulher-e-morta-com-tiro-na-cabeca-dentro-de-loja-de-moveis |
 | 20/6                  | Matou a mulher e se matou | http://g1.globo.com/sp/vale-do-paraiba-regiao/link-vanguarda/videos/v/homem-que-matou-esposa-e-cometeu-suicidio-em-sao-sebastiao-tinha-perfil-violento/5954941/?utm_source=dlvr.it&utm_medium=twitter |
