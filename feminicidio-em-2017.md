@@ -17,4 +17,4 @@
 | 21/6                  | ASSASSINO (não ciumento, viu Record) matou a mulher e feriu amigas| http://noticias.r7.com/cidade-alerta/videos/tenente-ciumento-mata-a-namorada-e-fere-as-amigas-dela-em-bar-21062017 |
 | 22/6                  | Dentista suspeito de carbonizar a mulher grávida de 3 meses| https://extra.globo.com/casos-de-policia/policia-prende-dentista-acusado-de-matar-ex-namorada-gravida-21517752.html?utm_source=Facebook&utm_medium=Social&utm_campaign=Extra |
 | 26/07                 | Mayara Amaral, a violonista de Campo Grande morta duas vezes | https://brasil.elpais.com/brasil/2017/07/30/politica/1501370790_128982.html |
-| 26/07                 | Jovem é preso após jogar ex-namorada grávida contra ônibus, em Botafogo | https://extra.globo.com/casos-de-policia/jovem-preso-apos-jogar-ex-namorada-gravida-contra-onibus-em-botafogo-rv1-1-21643397.html |
+| 20/08                 | Homem mata a ex-mulher a tiros no pátio de casa em Rosário do Sul, diz polícia | http://g1.globo.com/rs/rio-grande-do-sul/noticia/homem-mata-a-ex-mulher-a-tiros-no-patio-de-casa-em-rosario-do-sul-diz-policia.ghtml |
