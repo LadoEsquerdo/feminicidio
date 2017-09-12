@@ -19,3 +19,4 @@
 | 26/07                 | Jovem é preso após jogar ex-namorada grávida contra ônibus, em Botafogo | https://extra.globo.com/casos-de-policia/jovem-preso-apos-jogar-ex-namorada-gravida-contra-onibus-em-botafogo-rv1-1-21643397.html |
 | 26/07                 | Mayara Amaral, a violonista de Campo Grande morta duas vezes | https://brasil.elpais.com/brasil/2017/07/30/politica/1501370790_128982.html |
 | 20/08                 | Homem mata a ex-mulher a tiros no pátio de casa em Rosário do Sul, diz polícia | http://g1.globo.com/rs/rio-grande-do-sul/noticia/homem-mata-a-ex-mulher-a-tiros-no-patio-de-casa-em-rosario-do-sul-diz-policia.ghtml |
+|25/08|Polícia investiga caso de agressão denunciado em redes sociais em Campos do Jordão|https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/policia-investiga-caso-de-agressao-denunciado-em-redes-sociais-em-campos-do-jordao.ghtml|
