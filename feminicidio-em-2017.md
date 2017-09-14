@@ -20,4 +20,4 @@
 | 26/07                 | Mayara Amaral, a violonista de Campo Grande morta duas vezes | https://brasil.elpais.com/brasil/2017/07/30/politica/1501370790_128982.html |
 | 20/08                 | Homem mata a ex-mulher a tiros no pátio de casa em Rosário do Sul, diz polícia | http://g1.globo.com/rs/rio-grande-do-sul/noticia/homem-mata-a-ex-mulher-a-tiros-no-patio-de-casa-em-rosario-do-sul-diz-policia.ghtml |
 |25/08|Polícia investiga caso de agressão denunciado em redes sociais em Campos do Jordão|https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/policia-investiga-caso-de-agressao-denunciado-em-redes-sociais-em-campos-do-jordao.ghtml|
-|13/09| Mulher morta pelo ex-marido em Taquara teve medida protetiva negada |https://g1.globo.com/rs/rio-grande-do-sul/noticia/mulher-morta-pelo-ex-marido-em-taquara-teve-medida-protetiva-negada.ghtml?utm_source=twitter&utm_medium=share-bar-smart&utm_campaign=share-bar|
+|13/09| Mulher morta pelo ex-marido em Taquara teve medida protetiva negada |https://g1.globo.com/rs/rio-grande-do-sul/noticia/mulher-morta-pelo-ex-marido-em-taquara-teve-medida-protetiva-negada.ghtml|
