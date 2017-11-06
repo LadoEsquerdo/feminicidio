@@ -22,3 +22,5 @@
 |25/08|Polícia investiga caso de agressão denunciado em redes sociais em Campos do Jordão|https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/policia-investiga-caso-de-agressao-denunciado-em-redes-sociais-em-campos-do-jordao.ghtml|
 |13/09| Mulher morta pelo ex-marido em Taquara teve medida protetiva negada |https://g1.globo.com/rs/rio-grande-do-sul/noticia/mulher-morta-pelo-ex-marido-em-taquara-teve-medida-protetiva-negada.ghtml|
 |09/10| Mulher faz denúncia e é morta por ex-marido em viatura da PM|https://catracalivre.com.br/geral/cidadania/indicacao/mulher-faz-denuncia-e-e-morta-por-ex-marido-em-viatura-da-pm/?utm_source=dlvr.it&utm_medium=twitter|
+|06/11| Rapaz diz que deu 11 tiros no rosto de menina em escola de Alexânia
+|https://www.metropoles.com/distrito-federal/entorno/rapaz-mata-adolescente-dentro-de-escola-em-alexania|
